@@ -1,0 +1,245 @@
+#accordion-section-health_options_more{background-color:red;}
+a{
+text-decoration:none;
+color:#000;
+font-weight:bold;
+}
+a:hover{
+text-decoration:none;
+/* color:#fff; */
+}
+p{
+color:#666;
+}
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover{
+background-color:#0098ff !important;
+color:#fff !important ;
+}
+.btn,
+.post-tags a{
+background-color:transparent;
+border:1px solid #0098ff;
+border-radius:0px;
+color: #000;
+}
+.btn:hover,
+.post-tags a:hover{
+background-color:#0098ff;
+color:#fff !important;
+border:1px solid #0098ff !important;
+}
+.top{
+color:#fff !important;
+background-color:#000;
+}
+.top-phone a{
+color:#fff !important;
+margin:0 5px;
+font-weight:none !important;
+}
+.text{
+background-color:#333;
+color:#fff;
+}
+.color{
+color:#0098ff;
+background-color:#fff;
+}
+.slider .carousel-caption p{
+color:#fff;
+}
+.services .heart,
+.services .ln2,
+.services .ln3{
+color:#0098ff;;
+}
+.service .icon{
+color: #0098ff;
+}
+.white{
+color:#fff;
+}
+.pics  .img-thumbnail{
+ border: 5px solid #0098ff;
+}
+.news .date a:hover{
+  color:#0098ff;
+  }
+  .news .category a:hover{
+  color:#0098ff;
+  }
+  .news button {
+background-color:#0098ff;
+color:#fff;
+  }
+  .border{
+  border:1px solid #ccc;
+  }
+ 
+  .news .owl-carousel .item  .overlay  a{
+  color:#fff;
+  border:1px solid #fff;
+  }
+   .news .owl-carousel .item  .overlay  a:hover{
+  color:#0098ff;
+  background-color:#eee;
+    border:2px solid #0098ff;
+  }
+  .gallerys   .owl-carousel .item  .overlay  a{
+    color:#fff;
+  border:1px solid #fff;
+  }
+   .gallerys   .owl-carousel .item  .overlay  a:hover{
+  color:#0098ff;
+  background-color:#eee;
+    border:2px solid #0098ff;
+  }
+  .clients .owl-theme .owl-controls .owl-page.active span,
+  .clients .owl-theme .owl-controls.clickable .owl-page:hover span{
+  background-color: #0098ff;
+  }
+  .clients .owl-theme .owl-controls .owl-page span{
+  background:#000;
+  opacity:0.9;
+  }
+  .appoinment{
+  background-color:#0098ff;
+  }
+  .footer{
+background-color:#333;
+}
+.footer .widget-footer h3{
+color:#fff;
+}
+.footer .widget-footer h4 a,
+.footer .widget-footer h5 a{
+color:#999c9e;
+}
+.footer .widget-footer h4 a:hover ,
+.footer .widget-footer h5 a:hover{
+color:#fff;
+}
+.footer .widget-footer p{
+color:#999c9e;
+}
+.footer .widget-footer a{
+color:#fff;
+}
+ .footer-bottom{
+background-color:#000;
+color:#fff;
+}
+.footer-bottom a{
+color:#fff;
+}
+.footer-bottom a:hover{
+color:#0098ff;
+}
+.sidebar-widget .line{
+color:#0098ff;
+}
+.sidebar-widget .nav a:focus,
+	.sidebar-widget .nav a:hover{
+	background-color:transparent;
+	color:#0098ff;
+	border:0px;
+	}
+	.sidebar-widget .img-thumbnail .overlay a:hover{
+	background-color:#eee;
+	color:#0098ff;
+	border:2px solid #0098ff;
+	}
+.rightside a:hover{
+color:#0098ff;;
+}
+.rightside .btn:hover{
+color:#fff;
+}
+.bg{
+background-color:#0098ff;
+color:#fff;
+}
+.bg:hover{
+background-color:#0098ff;
+color:#fff !important;
+}
+.rightside .right-widget .img-thumbnail  .overlay a:hover{
+background-color:#eee;
+color:#0098ff;
+  border:2px solid #0098ff;
+}
+.space .pagination a:hover{
+color:#fff;
+background-color:#0098ff;
+}
+.masanary a:hover{
+color:#0098ff;
+}
+.post{
+margin:20px 0px;
+}
+.blogs .post  .owl-theme .owl-controls .owl-buttons div{
+font-size:24px;
+border-radius:0px;
+background-color:#0098ff;
+opacity:0.8;
+}
+.blogs .post .owl-pagination{
+display:none;
+}
+.services .line{
+color:#0098ff;
+}
+.service-icon a{
+color:#0098ff;
+}
+.services .service  a{
+color:#0098ff;
+}
+.services .service a .icon{
+border:2px solid #0098ff;
+padding:1px 8px !important;
+}
+.services .service a:hover .icon{
+background-color:#0098ff;
+color:#fff;
+}
+.service4 .col-xs-3 .icon{
+color:#0098ff;
+}
+.services .service4  a{
+color:#0098ff;
+}
+.services .service4 a .icon{
+border:2px solid #0098ff;
+padding:1px 8px !important;
+}
+.services .service4 a:hover .icon{
+background-color:#0098ff;
+color:#fff;
+}
+.carousel-indicators li{
+border: 1px solid #0098ff !important;
+}
+.carousel-indicators .active{
+	background-color:#0098ff !important;
+}
+.widget-footer .tagcloud a
+{
+color:#fff;
+border:1px solid #fff;
+}
+.sidebar-widget .tagcloud a{
+border: 1px solid #0098ff;
+}
+.widget-footer .tagcloud a:hover,
+.sidebar-widget .tagcloud a:hover{
+background-color:#0098ff;
+color:#fff;
+border:1px solid #0098ff;
+}
+@media(min-width:768px){
+.navbar-right li:hover >.dropdown-menu{
+display:block;
+}
+}

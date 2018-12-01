@@ -1,0 +1,93 @@
+CHANGE-LOG:
+
+@Version: 2.1.8 [25-10-2018]
+1) Issue fixed for home-slider animation. 
+2) Name changed for callout in customizer. 
+3) Banner removed , Welcome page added.
+
+@Version: 2.1.7 [24-08-2018]
+1) Google fonts option added.
+
+@Version: 2.1.6 [12-07-2018]
+1) Rating option added on admin panel.
+2) Boxed layout option added.
+
+@Version: 2.1.5 [23-06-2018]
+1) Go Healthcare Premium option added on admin panel.
+
+@Version: 2.1.4 [13-06-2018]
+1) Pro Themes & Plugin page updated.
+
+@Version: 2.1.3 [24-05-2018]
+1) Tagline issue fixed.
+2) Minor changes in Theme Options.
+3) Copywriter Footer text option added.
+
+@Version: 2.1.2 [27-04-2018]
+1) Category option added in blog.
+2) Read more option added in blog.
+3) Slider animation added in slider option.
+4) Rate banner dismiss option added.
+
+@Version: 2.1.1 [19-03-2018]
+1) Minor issue fixed(Admin.php)
+
+@Version: 2.1 [06-03-2018]
+1) Description Update.
+2) Screenshot update.
+
+@Version: 2.0 [16-01-2018]
+1. Pro Themes & Plugins Page updated.
+2. Plugin recommendation updated.
+3. Minor Issue Fixed.
+
+@Version: 1.9.9 [04-10-2017]
+1. Range picker added Header Options.
+2. Rating banner added.
+3. Text editor added Blog Options.
+
+@Version: 1.9.8 [15-07-2017]
+1. New feature add in Slider Option.
+2. Excerpt Option added.
+3. Minor changes in header.
+
+@Version: 1.9.7 [05-04-2017]
+1. Appointment Schedular plugin added in plugin recommendation.
+
+@Version: 1.9.6 [21/03/2017]
+1.Minor changes in custom header.
+
+@Version: 1.9.5 [30/01/2017]
+1.Minor changes in Healthcare theme and plugin.
+2.More social icon added
+3.Font Awesome Library updated v4.7.0
+4. Custom Header Added.
+
+@Version: 1.9.4 [28/12/2016]
+1.Minor changes in Healthcare theme and plugin.
+2.More social icon added
+3.Font Awesome Library updated v4.7.0
+
+@Version 1.9.3[09/08/2016]
+1. Pro Themes and Plugin Page Update with Upcoming Theme and Premium Plugin.
+
+
+@Version 1.9.2[15/06/2016]
+1. Default content removed.
+2. Font Awesome new version is added.
+3. Some CSS related issue fixed.
+
+@Version 1.9.1[20/05/2016]
+1. Minor issue fixed.
+
+@Version 1.9[20/05/2016]
+1. Default content add for preview display.
+
+@Version 1.8[29/02/2016]
+Default Menu Fixed.
+
+@Version: 1.7 [17/02/16]
+1) Upgrade to Pro Link
+
+@Version: 1.6 [28/01/16]
+released
